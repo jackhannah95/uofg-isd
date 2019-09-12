@@ -1,10 +1,11 @@
 ---
-title: "Presentation title"
-subtitle: "Presentation subtitle"
-author: 'Name <br> Organisation <br>'
-date: "Date <br><br> Slides: url to slides"
+title: "Working at ISD"
+subtitle: "University of Glasgow Induction Week 2019"
+author: 'Jack Hannah & David Caldwell <br> Information Services Division <br>'
+date: "25 September 2019 <br><br> Slides: https://github.com/jackhannah95/uofg-isd"
 output:
   ioslides_presentation:
+    widescreen: true
     css: my-theme.css
 ---
 
@@ -23,13 +24,15 @@ table_contents <- data.frame(c("Text", "Text",
                              c(1:5))
 ```
 
-## Slide title
+
+## Bio
 
 - Bullet point
 - Bullet point with *italic text*
 - Bullet point with **bold text**
 
-## Slide title
+
+## David's work
 
 ```{r out.width = "70%", fig.align = 'center'}
 include_graphics("images/value.png")
