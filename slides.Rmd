@@ -34,9 +34,55 @@ table_contents <- data.frame(c("Text", "Text",
 
 ## David's work
 
-```{r out.width = "70%", fig.align = 'center'}
-include_graphics("images/value.png")
+Two main projects:
+
+- Hospital Standardised Mortality Ratios
+    - Using logistic regression to predict the number of deaths to occur within acute hospitals across Scotland
+    
+- Reproducible Analytical Pipeline
+    - Using R and RMarkdown to automate a publication process start to finish 
+
+## Perks and Benefits
+
+There are a number of perks and benefits that comes with working at ISD:
+
+- Flexible working: come and go as you please (within reason!)
+- Good holiday allowance: up to 33 days + 8 public holidays
+- Good work-life balance: variety of working patterns available
+
+And most importantly...
+
+- Jeans are acceptable
+
+## The Locations
+
+ISD has offices in a number of locations, but the two main ones are in Glasgow and Edinburgh.
+
+<div style="float: left; width: 50%; text-align: left">
+**The Edinburgh Office**
+```{r out.width = "70%", fig.align = 'left'}
+include_graphics("images/gyle_location.png")
 ```
+</div>
+
+<div style="float: right; width: 50%;">
+**The Glasgow Office**
+```{r out.width = "65%", fig.align = 'left'}
+include_graphics("images/meridian_location.png")
+```
+</div>
+
+## Recruitment
+
+The recruitment process is usually two stages:
+
+- Application form with person statement
+    - Education/employment history
+    - Personal Statement
+    
+- Competency-based interview
+    - Asked to provide examples of times you have demonstrated key competencies required for the job
+    - Potential for a technical question
 
 ## This slide has two columns 
 <!-- It seems easier to do with htmltags than with other ways --> 
@@ -51,6 +97,8 @@ include_graphics("images/value.png")
 hist(rnorm(100))
 ```
 </div>
+
+
 
 ## Slide title
 
