@@ -40,7 +40,7 @@ Two main projects:
     - Using logistic regression to predict the number of deaths to occur within acute hospitals across Scotland
     
 - Reproducible Analytical Pipeline
-    - Using R and RMarkdown to automate a publication process start to finish
+    - Using R and RMarkdown to automate a publication process start to finish 
 
 ## Perks and Benefits
 
