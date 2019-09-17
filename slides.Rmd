@@ -12,24 +12,18 @@ output:
 ```{r setup, include = FALSE}
 # Load packages required
 library(knitr)
-library(magrittr)
-library(kableExtra)
 
 knitr::opts_chunk$set(echo = FALSE)
-
-# Create data frame for table
-table_contents <- data.frame(c("Text", "Text",
-                               "Text", "Text",
-                               "Text"),
-                             c(1:5))
 ```
 
 
-## Bio
+## Bios
 
-- Bullet point
-- Bullet point with *italic text*
-- Bullet point with **bold text**
+### **David**
+Graduated from the University of Glasgow with an M.Sci in Statistics in 2015. Did a placement year at Santander from 2013-14. Joined ISD as an Information Analyst in July 2015. Works on publishing data on hospital mortality and transforming how ISD releases its data more generally.
+
+### **Jack**
+Graduated from the University of Glasgow with a BSc (Hons) in Statistics in 2017. Joined ISD as an Information Analyst in July 2017. Works predominantly on using R to automate the creation of statistical reports and modernise the way in which they are presented.
 
 
 ## David's work
@@ -42,35 +36,53 @@ Two main projects:
 - Reproducible Analytical Pipeline
     - Using R and RMarkdown to automate a publication process start to finish 
 
+
+## Jack's work
+
+Two of the more interesting projects:
+
+- Long Term Conditions
+  - Using poisson regression to predict prevalence rates in Lanarkshire of various long term conditions, such as liver disease and arthritis
+  
+- Shiny
+  - Transforming traditional PDF statistical publications into interactive dashboards using the shiny package in R 
+
+
+## Other interesting work in ISD
+
+
+
 ## Perks and Benefits
 
 There are a number of perks and benefits that comes with working at ISD:
 
 - Flexible working: come and go as you please (within reason!)
-- Good holiday allowance: up to 33 days + 8 public holidays
+- Good holiday allowance: 27-33 days + 8 public holidays
 - Good work-life balance: variety of working patterns available
 
 And most importantly...
 
 - Jeans are acceptable
 
+
 ## The Locations
 
-ISD has offices in a number of locations, but the two main ones are in Glasgow and Edinburgh.
+ISD has offices in a number of locations, but the two main ones are in Edinburgh and Glasgow:
 
 <div style="float: left; width: 50%; text-align: left">
 **The Edinburgh Office**
 ```{r out.width = "70%", fig.align = 'left'}
-include_graphics("images/gyle_location.png")
+include_graphics(here::here("images", "gyle_location.png"))
 ```
 </div>
 
 <div style="float: right; width: 50%;">
 **The Glasgow Office**
 ```{r out.width = "65%", fig.align = 'left'}
-include_graphics("images/meridian_location.png")
+include_graphics(here::here("images", "meridian_location.png"))
 ```
 </div>
+
 
 ## Recruitment
 
@@ -84,30 +96,25 @@ The recruitment process is usually two stages:
     - Asked to provide examples of times you have demonstrated key competencies required for the job
     - Potential for a technical question
 
-## This slide has two columns 
-<!-- It seems easier to do with htmltags than with other ways --> 
-<div style="float: left; width: 50%; text-align: left">
-* Bullet point
-* Bullet point with *italic text*
-* Bullet point with **bold text**
-</div>
 
-<div style="float: right; width: 50%;">
-```{r out.width = "100%", fig.align = 'right'}
-hist(rnorm(100))
-```
-</div>
+## Contact
 
+### Jack Hannah
 
+[Email](mailto:jack.hannah1@nhs.net)
+[GitHub](https://github.com/jackhannah95)
 
-## Slide title
+### David Caldwell
 
-[ISD homepage](http://www.isdscotland.org/)
+[Email](mailto:david.caldwell1@nhs.net)
+[GitHub](https://github.com/davidc92)
 
-## Slide title
+### Transforming Publishing Programme
 
-```{r, echo = FALSE}
-    kable(table_contents,
-          col.names = c("Column heading", "Column heading"),
-          format = "markdown")
-```
+[Email](mailto:nss.isdtransformingpublishing@nhs.net)
+[GitHub](https://github.com/NHS-NSS-transforming-publications)
+
+### ISD
+
+[Website](https://www.isdscotland.org/)
+[GitHub](https://github.com/Health-SocialCare-Scotland)
