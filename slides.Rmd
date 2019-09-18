@@ -104,11 +104,11 @@ include_graphics(here::here("images", "meridian_location.png"))
 
 The recruitment process is usually two stages:
 
-- Application form with person statement
+- Application form with personal statement:
     - Education/employment history
     - Personal Statement
     
-- Competency-based interview
+- Competency-based interview:
     - Asked to provide examples of times you have demonstrated key competencies required for the job
     - Potential for a technical question
 
