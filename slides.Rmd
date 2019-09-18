@@ -125,12 +125,14 @@ The recruitment process is usually two stages:
 [Email](mailto:david.caldwell1@nhs.net)
 [GitHub](https://github.com/davidc92)
 
-### Transforming Publishing Programme
+### Transforming Publishing Programme (the team we're part of)
 
 [Email](mailto:nss.isdtransformingpublishing@nhs.net)
 [GitHub](https://github.com/NHS-NSS-transforming-publications)
+[Website](https://www.isdscotland.org/Products-and-Services/Transforming-Publishing-Programme/)
 
 ### ISD
 
-[Website](https://www.isdscotland.org/)
+[Email](mailto:NSS.isdSHIS@nhs.net)
 [GitHub](https://github.com/Health-SocialCare-Scotland)
+[Website](https://www.isdscotland.org/)
