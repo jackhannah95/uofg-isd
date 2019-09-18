@@ -19,11 +19,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Bios
 
-### **David**
-Graduated from the University of Glasgow with an M.Sci in Statistics in 2015. Did a placement year at Santander from 2013-14. Joined ISD as an Information Analyst in July 2015. Works on publishing data on hospital mortality and transforming how ISD releases its data more generally.
-
 ### **Jack**
 Graduated from the University of Glasgow with a BSc (Hons) in Statistics in 2017. Joined ISD as an Information Analyst in July 2017. Works predominantly on using R to automate the creation of statistical reports and modernise the way in which they are presented.
+
+### **David**
+Graduated from the University of Glasgow with an M.Sci in Statistics in 2015. Did a placement year at Santander from 2013-14. Joined ISD as an Information Analyst in July 2015. Works on publishing data on hospital mortality and transforming how ISD releases its data more generally.
 
 
 ## David's work
@@ -33,19 +33,29 @@ Two main projects:
 - Hospital Standardised Mortality Ratios
     - Using logistic regression to predict the number of deaths to occur within acute hospitals across Scotland
     
-- Reproducible Analytical Pipeline
-    - Using R and RMarkdown to automate a publication process start to finish 
+- Reproducible Analytical Pipeline (RAP)
+    - Using R and RMarkdown to automate a publication process start to finish
+    
+
+## What does RAP involve?
+
+```{r out.width = "90%", fig.align = 'center'}
+include_graphics(here::here("images", "new_process.png"))
+```
 
 
 ## Jack's work
 
-Two of the more interesting projects:
+Some of the more interesting projects:
 
 - Long Term Conditions
   - Using poisson regression to predict prevalence rates in Lanarkshire of various long term conditions, such as liver disease and arthritis
   
 - Shiny
-  - Transforming traditional PDF statistical publications into interactive dashboards using the shiny package in R 
+  - Transforming traditional PDF statistical publications into interactive dashboards using the shiny package in R
+  
+- Making open source contributions
+  - Have made contributions to the [testthat](https://github.com/r-lib/testthat) and [tidylog](https://github.com/elbersb/tidylog) R packages
 
 
 ## Other interesting work in ISD
