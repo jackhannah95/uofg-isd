@@ -30,11 +30,11 @@ Graduated from the University of Glasgow with an M.Sci in Statistics in 2015. Di
 
 Two main projects:
 
-- Hospital Standardised Mortality Ratios
+- [Hospital Standardised Mortality Ratios](https://www.isdscotland.org/Health-Topics/Quality-Indicators/HSMR/)
     - Using logistic regression to predict the number of deaths to occur within acute hospitals across Scotland
     
-- Reproducible Analytical Pipeline (RAP)
-    - Using R and RMarkdown to automate a publication process start to finish
+- [Reproducible Analytical Pipeline (RAP)](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Reproducible_Analytical_Pipelines_paper_v1.4.pdf)
+    - Using R and RMarkdown to [automate a publication process](https://github.com/NHS-NSS-transforming-publications/hsmr) start to finish
     
 
 ## What does RAP involve?
@@ -52,13 +52,19 @@ Some of the more interesting projects:
   - Using poisson regression to predict prevalence rates in Lanarkshire of various long term conditions, such as liver disease and arthritis
   
 - Shiny
-  - Transforming traditional PDF statistical publications into interactive dashboards using the shiny package in R
+  - Transforming [traditional PDF](https://www.isdscotland.org/Health-Topics/Hospital-Care/Publications/2017-06-27/2017-06-27-AcuteActivityQuarterly-Report.pdf?97298830748) statistical publications into [interactive dashboards](https://scotland.shinyapps.io/isd-hospital-activity-may19/) using the [shiny](https://shiny.rstudio.com/) package in R
   
-- Making open source contributions
-  - Have made contributions to the [testthat](https://github.com/r-lib/testthat) and [tidylog](https://github.com/elbersb/tidylog) R packages
+- Open source contributions
+  - Making contributions to the [testthat](https://testthat.r-lib.org/) and [tidylog](https://github.com/elbersb/tidylog) R packages via GitHub
 
 
 ## Other interesting work in ISD
+
+- [Mortality trends](https://www.scotpho.org.uk/population-dynamics/recent-mortality-trends/)
+  - Investigating how trends in mortality are influenced by government austerity, pressure on NHS services and influenza outbreaks
+  
+- [Suicide statistics](https://www.isdscotland.org/Health-Topics/Public-Health/Publications/2019-06-26/2019-06-26-Suicide-Summary.pdf?)
+  - Gets a lot of media attention (e.g news articles about latest figures from the [BBC](https://www.bbc.co.uk/news/uk-scotland-48770610), [Herald](https://www.heraldscotland.com/news/17732242.rise-of-more-than-100-suicides-is-devastating-news/) and [Scotsman](https://www.scotsman.com/health/number-of-suicides-recorded-in-scotland-rises-by-15-in-a-year-1-4954440))
 
 
 
