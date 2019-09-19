@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 Graduated from the University of Glasgow with a BSc (Hons) in Statistics in 2017. Joined ISD as an Information Analyst in July 2017. Works predominantly on using R to automate the creation of statistical reports and modernise the way in which they are presented.
 
 ### **David**
-Graduated from the University of Glasgow with an M.Sci in Statistics in 2015. Did a placement year at Santander from 2013-14. Joined ISD as an Information Analyst in July 2015. Works on publishing data on hospital mortality and transforming how ISD releases its data more generally.
+Graduated from the University of Glasgow with an M.Sci in Statistics in 2015. Did a placement year at Santander in 2013/14. Joined ISD as an Information Analyst in July 2015. Works on publishing data on hospital mortality and transforming how ISD releases its data more generally.
 
 
 ## David's work
