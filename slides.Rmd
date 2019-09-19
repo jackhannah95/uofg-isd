@@ -55,7 +55,7 @@ Some of the more interesting projects:
   - Transforming [traditional PDF](https://www.isdscotland.org/Health-Topics/Hospital-Care/Publications/2017-06-27/2017-06-27-AcuteActivityQuarterly-Report.pdf?97298830748) statistical publications into [interactive dashboards](https://scotland.shinyapps.io/isd-hospital-activity-may19/) using the [shiny](https://shiny.rstudio.com/) package in R
   
 - Open source contributions
-  - Making contributions to the [testthat](https://testthat.r-lib.org/) and [tidylog](https://github.com/elbersb/tidylog) R packages via GitHub
+  - Making contributions to the [testthat](https://github.com/r-lib/testthat) and [tidylog](https://github.com/elbersb/tidylog) R packages via GitHub
 
 
 ## Other interesting work in ISD
